@@ -2,6 +2,6 @@
 public class GitDemo {
 
 	public static void main(String ar[]){
-		System.out.println("Bootstraping Git");
+		System.out.println("Bootstraping GitDemo");
 	}
 }
